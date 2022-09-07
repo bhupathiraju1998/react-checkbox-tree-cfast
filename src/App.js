@@ -225,7 +225,7 @@ class App extends Component {
           <p>{each}</p>
         ))}
       </>
-    );
+    ); 
   }
 }
 
